@@ -20,11 +20,12 @@
 </h1>
  <div style="display: inline_block"><br>
    <a href="https://github.com/FabioNeves00/InHouseBot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FabioNeves00&repo=InHouseBot&showicons=true&theme=tokyonight"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FabioNeves00&repo=InHouseBot&showicons=true&theme=tokyonight&include_all_commits=true"/>
 </a>
-   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/FabioNeves00/Resitores">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FabioNeves00&repo=Resitores&showicons=true&theme=tokyonight&include_all_commits=true"/>
 </a>
+
 </div>
 <h1>
   Contatos
