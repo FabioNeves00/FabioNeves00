@@ -2,7 +2,7 @@
 
 ## I'm a 👨‍🎓second period 💻Computer Science student at CESUPA🤖
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
-<div align="center">
+<div>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioNeves00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioNeves00&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -19,7 +19,12 @@
   Grandes Projetos
 </h1>
  <div style="display: inline_block"><br>
-  <img align="center" alt="Fabio-gmail" height="40" width="80" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+   <a href="https://github.com/FabioNeves00/InHouseBot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FabioNeves00&repo=InHouseBot&showicons=true&theme=tokyonight"/>
+</a>
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
 </div>
 <h1>
   Contatos
