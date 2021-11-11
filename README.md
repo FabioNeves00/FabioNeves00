@@ -23,7 +23,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FabioNeves00&repo=InHouseBot&showicons=true&theme=tokyonight&include_all_commits=true"/>
 </a>
 <a href="https://github.com/FabioNeves00/Resitores">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FabioNeves00&repo=Resitores&showicons=true&theme=tokyonight&include_all_commits=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FabioNeves00&repo=Resistores&showicons=true&theme=tokyonight&include_all_commits=true"/>
 </a>
 
 </div>
