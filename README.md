@@ -5,7 +5,7 @@
 <div align="center" justify-content="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=FabioNeves00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioNeves00&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" width="414em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioNeves00&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  <h3 margin="0">
   Favorite Languages
