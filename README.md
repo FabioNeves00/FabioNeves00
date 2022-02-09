@@ -25,8 +25,8 @@
   Complex projects
 </h1>
  <div style="display: inline_block"><br>
-   <a href="https://github.com/FabioNeves00/InHouseBot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FabioNeves00&repo=InHouseBot&showicons=true&theme=tokyonight&include_all_commits=true"/>
+   <a href="https://github.com/FabioNeves00/StudyNotes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FabioNeves00&repo=StudyNotes&showicons=true&theme=tokyonight&include_all_commits=true"/>
 </a>
 <a href="https://github.com/FabioNeves00/Resistores">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FabioNeves00&repo=Resistores&showicons=true&theme=tokyonight&include_all_commits=true"/>
