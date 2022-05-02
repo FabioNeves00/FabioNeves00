@@ -24,7 +24,7 @@
  <h1>
   Complex projects
 </h1>
- <div style="display: inline_block"><br>
+ <div style="display: inline_block" align="center" justify-content="center"><br>
    <a href="https://github.com/FabioNeves00/StudyNotes">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FabioNeves00&repo=StudyNotes&showicons=true&theme=synthwave&include_all_commits=true"/>
 </a>
