@@ -1,7 +1,13 @@
 # Hii, my name is Fabio 😬
 
 ## I'm a third period Computer Science student at CESUPA👨‍🎓💻
+<div align="center" justify-content="center">
+  <img src="https://64.media.tumblr.com/3b40cff031f6cfef14e21ed613a1f538/tumblr_oubxahsBYj1wqr4kfo1_500.gifv"/>
+</div>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+
+## Infos
+
 <div align="center" justify-content="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em"src="https://github-readme-stats.vercel.app/api?username=FabioNeves00&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
