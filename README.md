@@ -3,7 +3,7 @@
 # Hii, my name is Fabio 😬
 
 ## I'm a fourth period Computer Science student at CESUPA👨‍🎓💻
-### Nowadays working at [Multiverse Edu](https://multiverseedu.com/) and [GETA](https://geta.omnicesupa.com/)
+### Nowadays working at [Multiverse Edu](https://multiverseedu.com/) and [GETA](https://geta.omnicesupa.com/) with React, Nodejs, NestJS, Sass, PostgreSQL and MongoDB
 
 <div align="center" justify-content="center">
   <img src="https://64.media.tumblr.com/3b40cff031f6cfef14e21ed613a1f538/tumblr_oubxahsBYj1wqr4kfo1_500.gifv"/>
