@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-[![Multiverse Banner]([https://cdn.discordapp.com/attachments/897683597329317921/1003552049247551518/multiversebanner.jpeg)](https://multiverseedu.com/](https://multiverseedu.com/))
+[![Multiverse Banner](https://multiverseedu.com/Multiverse-Banner.png)](https://multiverseedu.com/)
 🪐_Currently working on Multiverse;<br>🤩_Learning Rust and deepening NestJS;<br>🥸_I love escape room games;
 
 
